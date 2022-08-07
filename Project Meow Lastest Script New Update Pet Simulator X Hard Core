@@ -1,0 +1,4 @@
+loadstring(game:HttpGet"https://rawscripts.net/raw/Project-Meow_421")()
+wait(1)
+_G.License = "a5daacc286f242a1bbc1"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
